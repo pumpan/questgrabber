@@ -23,7 +23,7 @@ Created by Pumpans.
 
 ## Installation
 1. Download the addon files from GitHub.
-2. Extract the contents of the zip file into your WoW Classic Interface\AddOns directory
+2. Extract the contents of the zip file into your WoW Classic Interface\AddOns\QuestGrabber_1.12.1 directory
 3. Launch World of Warcraft and ensure that the addon is enabled in the character selection screen.
 
 ## Usage
