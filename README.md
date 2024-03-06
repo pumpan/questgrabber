@@ -11,7 +11,7 @@ by providing automation features for frequently repeated quests, making quest se
 2. QuestTurnIn.lua: This file complements the functionality of QuestGrabber.lua by providing automation features for quest completion. It registers event handlers for quest progression, completion, and NPC interactions related to quests. It allows players to automatically complete quests based on predefined settings and player interactions.
 
 + Questgrabber.lua
-Idea and creation by Anduidin, with some minor visual fixes by Pumpans.
+Idea and creation by Anduidin, with some tweaks and visual fixes by Pumpans.
 + QuestTurnIn.lua
 Created by Pumpans.
 
