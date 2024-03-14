@@ -1,0 +1,9 @@
+## Interface: 11200
+## Author:
+## Title: QuestGrabber_1.12.1
+## Notes: Fast fetching and turn in Quests (Made in 2023)
+
+## SavedVariables: QuestTurnIn, questgrabber_QuestsToAutoHandle 
+
+QuestTurnIn.lua
+questgrabber.lua

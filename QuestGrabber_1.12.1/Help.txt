@@ -1,0 +1,24 @@
+QuestGrabber version 1.2.1
+
+Questgrabber.lua
+Idea and creation by Anduidin, with some minor visual fixes by Pumpans.
+
+QuestTurnIn.lua
+Created by Pumpans.
+
+Instructions:
+
+   1.Talk to a quest NPC and select the quests you want to automatically collect.
+   2.Close the NPC quest window and hold Shift while right-clicking the NPC.
+   3.To turn in quests automatically, hold Shift and right-click the NPC when the quest is completed.
+   4.Right-click to move the frame.
+
+Known Issues:
+
+   1.There is an issue preventing the automatic turn-in of quests when the quest log is full and you have additional quests to add.
+   2.Lazypig also uses Shift for its automatic quest turn-in feature.
+
+Changelog:
+
+1.2.1
+Added in questgrabber so that if questlog is ful dont try to grab a new quest, instead try to turn in a quest.
