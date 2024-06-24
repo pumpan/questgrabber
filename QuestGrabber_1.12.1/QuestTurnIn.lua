@@ -159,7 +159,7 @@ function QuestTurnIn_EventHandler.ADDON_LOADED()
         end
         QuestTurnIn_RegisterEvents()
         QuestTurnIn_EventHandler:UnregisterEvent("ADDON_LOADED")
-        DEFAULT_CHAT_FRAME:AddMessage("QuestGrabber 1.2.0 |cff00FF00 loaded.|cffffffff /qg for help.")
+        DEFAULT_CHAT_FRAME:AddMessage("QuestGrabber 1.2.0 |cff00FF00 loaded.|cffffffff /qg help for help.")
     end
 end
 
