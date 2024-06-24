@@ -27,7 +27,7 @@ Created by Pumpans.
 3. Launch World of Warcraft and ensure that the addon is enabled in the character selection screen.
 
 ## Usage
-Type /qg in the chat box for help instructions on how to use the addon.
+Type "/qg help" in the chat box for help instructions on how to use the addon.
 
 1. Talk to a quest NPC and select the quests you want to automatically collect.
 2. Close the NPC quest window and hold Shift while right-clicking the NPC.
